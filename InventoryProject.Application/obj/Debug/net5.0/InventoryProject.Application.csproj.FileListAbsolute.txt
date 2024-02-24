@@ -1,0 +1,15 @@
+C:\Projects\InventoryProjectCA\InventoryProject.Application\bin\Debug\net5.0\InventoryProject.Application.deps.json
+C:\Projects\InventoryProjectCA\InventoryProject.Application\bin\Debug\net5.0\InventoryProject.Application.dll
+C:\Projects\InventoryProjectCA\InventoryProject.Application\bin\Debug\net5.0\ref\InventoryProject.Application.dll
+C:\Projects\InventoryProjectCA\InventoryProject.Application\bin\Debug\net5.0\InventoryProject.Application.pdb
+C:\Projects\InventoryProjectCA\InventoryProject.Application\bin\Debug\net5.0\InventoryProject.Core.dll
+C:\Projects\InventoryProjectCA\InventoryProject.Application\bin\Debug\net5.0\InventoryProject.Core.pdb
+C:\Projects\InventoryProjectCA\InventoryProject.Application\obj\Debug\net5.0\InventoryProject.Application.csproj.AssemblyReference.cache
+C:\Projects\InventoryProjectCA\InventoryProject.Application\obj\Debug\net5.0\InventoryProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\InventoryProjectCA\InventoryProject.Application\obj\Debug\net5.0\InventoryProject.Application.AssemblyInfoInputs.cache
+C:\Projects\InventoryProjectCA\InventoryProject.Application\obj\Debug\net5.0\InventoryProject.Application.AssemblyInfo.cs
+C:\Projects\InventoryProjectCA\InventoryProject.Application\obj\Debug\net5.0\InventoryProject.Application.csproj.CoreCompileInputs.cache
+C:\Projects\InventoryProjectCA\InventoryProject.Application\obj\Debug\net5.0\InventoryProject.Application.csproj.CopyComplete
+C:\Projects\InventoryProjectCA\InventoryProject.Application\obj\Debug\net5.0\InventoryProject.Application.dll
+C:\Projects\InventoryProjectCA\InventoryProject.Application\obj\Debug\net5.0\ref\InventoryProject.Application.dll
+C:\Projects\InventoryProjectCA\InventoryProject.Application\obj\Debug\net5.0\InventoryProject.Application.pdb
