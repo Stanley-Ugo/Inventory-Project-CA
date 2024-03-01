@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "sYhGYNu0QTTveVwlp444O+sH5JYIlRa2tGGtGZnHzB2zYgOSrkq6xFvpeuuLMaY40fbjbn1uunBWI4UjiiXjKw==",
+  "dgSpecHash": "3anYsC1dQNIGm4zc8WsM+s2LytlkkiuqWuG0sYj45bL1Wn5GWH5dfIqeKMOWWZNcOG8bBHz4/KqUtVCAPEz9ZA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\InventoryProjectCA\\InventoryProject.API\\InventoryProject.API.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",

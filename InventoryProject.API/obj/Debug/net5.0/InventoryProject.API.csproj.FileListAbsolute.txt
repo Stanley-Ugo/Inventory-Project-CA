@@ -64,3 +64,7 @@ C:\Projects\InventoryProjectCA\InventoryProject.API\bin\Debug\net5.0\InventoryPr
 C:\Projects\InventoryProjectCA\InventoryProject.API\bin\Debug\net5.0\InventoryProject.Application.pdb
 C:\Projects\InventoryProjectCA\InventoryProject.API\bin\Debug\net5.0\InventoryProject.Infrastructure.pdb
 C:\Projects\InventoryProjectCA\InventoryProject.API\bin\Debug\net5.0\InventoryProject.Core.pdb
+C:\Projects\InventoryProjectCA\InventoryProject.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Projects\InventoryProjectCA\InventoryProject.API\bin\Debug\net5.0\FluentValidation.dll
+C:\Projects\InventoryProjectCA\InventoryProject.API\bin\Debug\net5.0\MediatR.dll
+C:\Projects\InventoryProjectCA\InventoryProject.API\bin\Debug\net5.0\MediatR.Contracts.dll

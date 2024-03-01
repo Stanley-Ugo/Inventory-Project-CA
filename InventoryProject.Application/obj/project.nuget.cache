@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "wIOQdEAxGmLy5oi4nQgey9K5k04p9EWBLoXUXFyQsYMPpYMm3W+95bLlJi2PxS6owi3djQgyPcd8/FiBlvVZSQ==",
+  "dgSpecHash": "vvg7dFVY9xf+rzcJy89d7G1tF+fc3ybKYkhFyTkcUqpcc8DfapLAYUvUzyEzmFxrhn4JLxjeHt8hjAiUbmcW3Q==",
   "success": true,
   "projectFilePath": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Application\\InventoryProject.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
