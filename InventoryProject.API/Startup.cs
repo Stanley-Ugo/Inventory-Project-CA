@@ -1,15 +1,18 @@
+using InventoryProject.Application.Handlers;
+using InventoryProject.Core.Repositories;
+using InventoryProject.Core.Repositories.Base;
+using InventoryProject.Infrastructure.Data;
+using InventoryProject.Infrastructure.Repositories;
+using InventoryProject.Infrastructure.Repositories.Base;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Reflection;
 
 namespace InventoryProject.API
 {
@@ -27,10 +30,18 @@ namespace InventoryProject.API
         {
 
             services.AddControllers();
+            services.AddApiVersioning();
+            services.AddDbContext<MainDBContext>(
+                m => m.UseSqlServer(Configuration.GetConnectionString("InventoryConnectionString")), ServiceLifetime.Singleton);
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "InventoryProject.API", Version = "v1" });
             });
+            services.AddAutoMapper(typeof(Startup));
+            services.AddMediatR(typeof(CreateCategoryCommandHandler).GetTypeInfo().Assembly);
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            services.AddTransient<ICategoryRepository, CategoryRepository>();
+            services.AddTransient<IProductRepository, ProductRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
