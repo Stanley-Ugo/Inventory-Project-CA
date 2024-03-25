@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632669CB-4AE9-480F-8973-337604A1E6EF}|InventoryProject.API.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632669CB-4AE9-480F-8973-337604A1E6EF}|InventoryProject.API.csproj|solutionrelative:controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632669CB-4AE9-480F-8973-337604A1E6EF}|InventoryProject.API.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632669CB-4AE9-480F-8973-337604A1E6EF}|InventoryProject.API.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632669CB-4AE9-480F-8973-337604A1E6EF}|InventoryProject.API.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632669CB-4AE9-480F-8973-337604A1E6EF}|InventoryProject.API.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632669CB-4AE9-480F-8973-337604A1E6EF}|InventoryProject.API.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{632669CB-4AE9-480F-8973-337604A1E6EF}|InventoryProject.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{294E8D42-F9F9-4EF4-ADB3-E9E31A8E2501}|..\\InventoryProject.Infrastructure\\InventoryProject.Infrastructure.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BCD9EC-F729-4296-BFD2-2D37EFE4156A}|..\\InventoryProject.Application\\InventoryProject.Application.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.application\\handlers\\deletecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BCD9EC-F729-4296-BFD2-2D37EFE4156A}|..\\InventoryProject.Application\\InventoryProject.Application.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.application\\responses\\deletecategoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BCD9EC-F729-4296-BFD2-2D37EFE4156A}|..\\InventoryProject.Application\\InventoryProject.Application.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.application\\handlers\\getcategorybycategorynamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31C88CB-ECDC-4FB3-A181-9236AC39CFE3}|..\\InventoryProject.Core\\InventoryProject.Core.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BCD9EC-F729-4296-BFD2-2D37EFE4156A}|..\\InventoryProject.Application\\InventoryProject.Application.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.application\\commands\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BCD9EC-F729-4296-BFD2-2D37EFE4156A}|..\\InventoryProject.Application\\InventoryProject.Application.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.application\\commands\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31C88CB-ECDC-4FB3-A181-9236AC39CFE3}|..\\InventoryProject.Core\\InventoryProject.Core.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BCD9EC-F729-4296-BFD2-2D37EFE4156A}|..\\InventoryProject.Application\\InventoryProject.Application.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.application\\mappers\\categorymappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31C88CB-ECDC-4FB3-A181-9236AC39CFE3}|..\\InventoryProject.Core\\InventoryProject.Core.csproj|c:\\users\\user\\source\\repos\\inventory-project-ca\\inventoryproject.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.API\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.API\\Controllers\\ApiController.cs*",
+              "RelativeToolTip": "Controllers\\ApiController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:40:20.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.API\\appsettings.json*",
+              "RelativeToolTip": "appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T17:25:27.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.API\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.API\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:14:58.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.API\\Controllers\\CategoryController.cs*",
+              "RelativeToolTip": "Controllers\\CategoryController.cs*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:02:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\InventoryProject.Core\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "..\\InventoryProject.Core\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:48:20.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Handlers\\DeleteCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\InventoryProject.Application\\Handlers\\DeleteCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Handlers\\DeleteCategoryCommandHandler.cs",
+              "RelativeToolTip": "..\\InventoryProject.Application\\Handlers\\DeleteCategoryCommandHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB0AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:58:39.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteCategoryResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Responses\\DeleteCategoryResponse.cs",
+              "RelativeDocumentMoniker": "..\\InventoryProject.Application\\Responses\\DeleteCategoryResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Responses\\DeleteCategoryResponse.cs",
+              "RelativeToolTip": "..\\InventoryProject.Application\\Responses\\DeleteCategoryResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:51:00.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetCategoryByCategoryNameHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Handlers\\GetCategoryByCategoryNameHandler.cs",
+              "RelativeDocumentMoniker": "..\\InventoryProject.Application\\Handlers\\GetCategoryByCategoryNameHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Handlers\\GetCategoryByCategoryNameHandler.cs",
+              "RelativeToolTip": "..\\InventoryProject.Application\\Handlers\\GetCategoryByCategoryNameHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:29:23.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\InventoryProject.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\InventoryProject.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABQAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:18:58.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Commands\\CreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "..\\InventoryProject.Application\\Commands\\CreateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Commands\\CreateCategoryCommand.cs",
+              "RelativeToolTip": "..\\InventoryProject.Application\\Commands\\CreateCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:26:46.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Commands\\DeleteCategoryCommand.cs",
+              "RelativeDocumentMoniker": "..\\InventoryProject.Application\\Commands\\DeleteCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Commands\\DeleteCategoryCommand.cs",
+              "RelativeToolTip": "..\\InventoryProject.Application\\Commands\\DeleteCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:55:38.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\InventoryProject.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\InventoryProject.Core\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:09:41.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Mappers\\CategoryMappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\InventoryProject.Application\\Mappers\\CategoryMappingProfile.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\Mappers\\CategoryMappingProfile.cs",
+              "RelativeToolTip": "..\\InventoryProject.Application\\Mappers\\CategoryMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:05:02.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\InventoryProject.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\InventoryProject.Core\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:09:42.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

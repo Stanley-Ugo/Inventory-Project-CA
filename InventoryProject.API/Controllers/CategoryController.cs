@@ -32,5 +32,12 @@ namespace InventoryProject.API.Controllers
             var result = await _mediator.Send(createCategoryCommand);
             return Ok(result);
         }
+
+        [HttpDelete("category/{id}")]
+        public async Task<ActionResult<DeleteCategoryResponse>> DeleteCategory([FromBody] DeleteCategoryCommand deleteCategoryCommand)
+        {
+            var result = await _mediator.Send(deleteCategoryCommand);
+            return Ok(result);
+        }
     }
 }
