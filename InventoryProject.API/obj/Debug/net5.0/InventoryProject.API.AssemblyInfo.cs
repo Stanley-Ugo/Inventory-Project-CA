@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("1fc7771a-1ce3-493d-9439-40245ae048d1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("InventoryProject.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0f777b26bd5a0ddfb2e576cd2a8a3495fdb4e90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83530796cc37c77a4167f769de039ebb84952c19")]
 [assembly: System.Reflection.AssemblyProductAttribute("InventoryProject.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InventoryProject.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
