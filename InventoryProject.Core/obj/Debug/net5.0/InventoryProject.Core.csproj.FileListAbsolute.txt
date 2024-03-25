@@ -10,3 +10,16 @@ C:\Projects\InventoryProjectCA\InventoryProject.Core\obj\Debug\net5.0\InventoryP
 C:\Projects\InventoryProjectCA\InventoryProject.Core\obj\Debug\net5.0\InventoryProject.Core.dll
 C:\Projects\InventoryProjectCA\InventoryProject.Core\obj\Debug\net5.0\ref\InventoryProject.Core.dll
 C:\Projects\InventoryProjectCA\InventoryProject.Core\obj\Debug\net5.0\InventoryProject.Core.pdb
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\bin\Debug\net5.0\InventoryProject.Core.deps.json
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\bin\Debug\net5.0\InventoryProject.Core.dll
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\bin\Debug\net5.0\InventoryProject.Core.pdb
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\obj\Debug\net5.0\InventoryProject.Core.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\obj\Debug\net5.0\InventoryProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\obj\Debug\net5.0\InventoryProject.Core.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\obj\Debug\net5.0\InventoryProject.Core.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\obj\Debug\net5.0\InventoryProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\obj\Debug\net5.0\InventoryProject.Core.sourcelink.json
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\obj\Debug\net5.0\InventoryProject.Core.dll
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\obj\Debug\net5.0\refint\InventoryProject.Core.dll
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\obj\Debug\net5.0\InventoryProject.Core.pdb
+C:\Users\User\Source\Repos\Inventory-Project-CA\InventoryProject.Core\obj\Debug\net5.0\ref\InventoryProject.Core.dll

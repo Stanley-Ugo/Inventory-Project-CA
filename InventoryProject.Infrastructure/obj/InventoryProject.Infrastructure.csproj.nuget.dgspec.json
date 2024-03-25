@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\InventoryProjectCA\\InventoryProject.Infrastructure\\InventoryProject.Infrastructure.csproj": {}
+    "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Infrastructure\\InventoryProject.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\InventoryProjectCA\\InventoryProject.Application\\InventoryProject.Application.csproj": {
+    "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\InventoryProject.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Application\\InventoryProject.Application.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\InventoryProject.Application.csproj",
         "projectName": "InventoryProject.Application",
-        "projectPath": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Application\\InventoryProject.Application.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Application\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\InventoryProject.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\Inventory-Project-CA\\InventoryProject.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,15 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projects\\InventoryProjectCA\\InventoryProject.Core\\InventoryProject.Core.csproj": {
-                "projectPath": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Core\\InventoryProject.Core.csproj"
+              "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Core\\InventoryProject.Core.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Core\\InventoryProject.Core.csproj"
               }
             }
           }
@@ -42,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,7 +73,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -76,24 +83,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\InventoryProjectCA\\InventoryProject.Core\\InventoryProject.Core.csproj": {
+    "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Core\\InventoryProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Core\\InventoryProject.Core.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Core\\InventoryProject.Core.csproj",
         "projectName": "InventoryProject.Core",
-        "projectPath": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Core\\InventoryProject.Core.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Core\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Core\\InventoryProject.Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\Inventory-Project-CA\\InventoryProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,7 +109,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -114,6 +122,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -125,7 +138,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -134,24 +148,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\InventoryProjectCA\\InventoryProject.Infrastructure\\InventoryProject.Infrastructure.csproj": {
+    "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Infrastructure\\InventoryProject.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Infrastructure\\InventoryProject.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Infrastructure\\InventoryProject.Infrastructure.csproj",
         "projectName": "InventoryProject.Infrastructure",
-        "projectPath": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Infrastructure\\InventoryProject.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Infrastructure\\InventoryProject.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\Inventory-Project-CA\\InventoryProject.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -159,15 +174,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Projects\\MicroserviceProjects\\Play-Catalog\\Play.Catalog\\packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projects\\InventoryProjectCA\\InventoryProject.Application\\InventoryProject.Application.csproj": {
-                "projectPath": "C:\\Projects\\InventoryProjectCA\\InventoryProject.Application\\InventoryProject.Application.csproj"
+              "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\InventoryProject.Application.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\Inventory-Project-CA\\InventoryProject.Application\\InventoryProject.Application.csproj"
               }
             }
           }
@@ -176,6 +191,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -213,7 +233,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -222,7 +243,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
