@@ -2,6 +2,7 @@
 using InventoryProject.Core.Repositories;
 using InventoryProject.Infrastructure.Data;
 using InventoryProject.Infrastructure.Repositories.Base;
+using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -16,8 +17,8 @@ namespace InventoryProject.Infrastructure.Repositories
         }
         public async Task<Category> GetCategoryByName(string categoryName)
         {
-            return _mainDBContext.Categories
-                .Where(x => x.Name == categoryName).FirstOrDefault();
+            return await _mainDBContext.Categories
+                .Where(x => x.Name == categoryName).FirstOrDefaultAsync();
         }
     }
 }

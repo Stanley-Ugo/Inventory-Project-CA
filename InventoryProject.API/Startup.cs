@@ -30,7 +30,6 @@ namespace InventoryProject.API
         {
 
             services.AddControllers();
-            services.AddApiVersioning();
             services.AddDbContext<MainDBContext>(
                 m => m.UseSqlServer(Configuration.GetConnectionString("InventoryConnectionString")), ServiceLifetime.Singleton);
             services.AddSwaggerGen(c =>

@@ -3,8 +3,8 @@ using System;
 
 namespace InventoryProject.API.Controllers
 {
-    [Route(template: "api/v1/[controller]")]
     [ApiController]
+    [Route("api/v1/[controller]")]
     public class ApiController : ControllerBase
     {
     }
